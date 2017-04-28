@@ -1,0 +1,190 @@
+route,routename,routegroup
+1,Bronzeville/Union Station,South Side Downtown
+1,Indiana/Hyde Park,
+2,Hyde Park Express,South Side Lake Shore Drive
+3,King Drive,South Side Downtown
+4,Cottage Grove,South Side Downtown
+5,South Shore Night Bus,South Side East-West
+6,Jackson Park Express,South Side Lake Shore Drive
+7,Harrison,West Side East-West
+8,Halsted,North-South Crosstown
+9,Ashland,North-South Crosstown
+10,Museum of S & I,
+11,Lincoln,North Side Downtown
+11,Lincoln/Sedgwick,
+12,Roosevelt,West Side East-West
+14,Jeffery Express,
+15,Jeffery Local,North-South Crosstown
+17,Westchester,
+18,16th/18th,West Side East-West
+19,United Center Express,
+20,Madison,West Side East-West
+21,Cermak,West Side East-West
+22,Clark,North Side Downtown
+24,Wentworth,South Side Downtown
+25,West Cermak,South Side Downtown
+26,South Shore Express,South Side Lake Shore Drive
+27,South Deering,
+28,Stony Island,South Side Lake Shore Drive
+29,State,South Side Downtown
+30,South Chicago,Far South Side
+31,31st,South Side East-West
+33,Mag Mile Express,
+34,South Michigan,Far South Side
+35,31st/35th,South Side East-West
+35,35th,South Side East-West
+36,Broadway,North Side Downtown
+37,Sedgwick,North Side Downtown
+38,Ogden/Taylor,
+39,Pershing,South Side East-West
+40,Chinatown/Pilsen Shuttle,
+43,43rd,South Side East-West
+44,Wallace-Racine,North-South Crosstown
+47,47th,South Side East-West
+48,South Damen,North-South Crosstown
+49,Western,North-South Crosstown
+50,Damen,North-South Crosstown
+51,51st,South Side East-West
+52,Kedzie/California,North-South Crosstown
+53,Pulaski,North-South Crosstown
+54,Cicero,North-South Crosstown
+55,Garfield,South Side East-West
+56,Milwaukee,North Side Downtown
+57,Laramie,North-South Crosstown
+59,59th/61st,South Side East-West
+60,Blue Island/26th,West Side East-West
+62,Archer,South Side Downtown
+63,63rd,South Side East-West
+64,Foster-Canfield,
+65,Grand,West Side East-West
+66,Chicago,West Side East-West
+67,67th-69th-71st,South Side East-West
+68,Northwest Highway,Northwest Side Feeder
+69,Cumberland/East River,
+70,Division,West Side East-West
+71,71st/South Shore,South Side East-West
+72,North,West Side East-West
+73,Armitage,North Side East-West
+74,Fullerton,North Side East-West
+75,74th-75th,South Side East-West
+76,Diversey,North Side East-West
+77,Belmont,North Side East-West
+78,Montrose,North Side East-West
+79,79th,South Side East-West
+80,Irving Park,North Side East-West
+81,Lawrence,North Side East-West
+82,Kimball-Homan,North-South Crosstown
+84,Peterson,North Side East-West
+85,Central,North-South Crosstown
+86,Narragansett/Ridgeland,North-South Crosstown
+87,87th,South Side East-West
+88,Higgins,Northwest Side Feeder
+90,Harlem,North-South Crosstown
+91,Austin,North-South Crosstown
+92,Foster,North Side East-West
+93,California/Dodge,North-South Crosstown
+94,South California,North-South Crosstown
+95,95th,Far South Side
+96,Lunt,North Side East-West
+97,Skokie,Evanston
+100,Jeffery Manor Express,Far South Side
+103,West 103rd,Far South Side
+106,East 103rd,Far South Side
+108,Halsted/95th,Far South Side
+111,111th/King Drive,Far South Side
+111,Pullman/111th/115th,Far South Side
+112,Vincennes/111th,Far South Side
+115,Pullman/115th,Far South Side
+119,Michigan/119th,Far South Side
+120,Ogilvie/Streeterville Express,Far South Side
+120,Ogilvie/Wacker Express,Downtown
+121,Union/Streeterville Express,Downtown
+121,Union/Wacker Express,Downtown
+122,Illinois Center/Ogilvie Express,Downtown
+123,Illinois Center/Union Express,
+124,Navy Pier,
+125,Water Tower Express,Downtown
+126,Jackson,Downtown
+127,Madison/Roosevelt Circulator,West Side East-West
+128,Soldier Field Express,
+129,West Loop/South Loop,
+130,Museum Campus,
+132,Goose Island Express,
+134,Stockton/LaSalle Express,Downtown
+135,Clarendon/LaSalle Express,North Side Lake Shore Drive
+136,Sheridan/LaSalle Express,North Side Lake Shore Drive
+143,Stockton/Michigan Express,North Side Lake Shore Drive
+144,Marine/Michigan Express,North Side Lake Shore Drive
+145,Wilson/Michigan Express,
+146,Inner Drive/Michigan Express,
+147,Outer Drive Express,North Side Lake Shore Drive
+148,Clarendon/Michigan Express,North Side Lake Shore Drive
+151,Sheridan,North Side Lake Shore Drive
+152,Addison,North Side Lake Shore Drive
+154,Wrigley Field Express,North Side Downtown
+155,Devon,North Side East-West
+156,LaSalle,
+157,Streeterville/Taylor,North Side East-West
+165,West 65th,North Side Downtown
+168,UIC-Pilsen Express,Downtown
+169,69th-UPS Express,Midway Feeder
+170,U. of Chicago/Midway,
+171,U. of Chicago/Hyde Park,South Side East-West
+172,U. of Chicago/Kenwood,South Side East-West
+173,U. of Chicago/Lakeview Express,South Side Downtown
+174,U. of Chicago/Garfield Stations,South Side Downtown
+192,U. of Chicago Hospitals Express,South Side Downtown
+200,Main Shuttle,South Side Downtown
+201,Central/Ridge,South Side Downtown
+202,Main/Emerson,South Side Downtown
+203,Ridge/Grant,South Side Downtown
+204,Dodge,
+205,Chicago/Golf,Evanston
+206,Evanston Circulator,
+290,Touhy Supplement,
+992,ROAD CALL,
+999,Special Dest Signs,Evanston
+1001,Shuttle/Special Event Route,Evanston
+1002,Special Event Route,
+111A,Pullman Shuttle,
+49A,South Western,
+49B,North Western,
+52A,South Kedzie,
+53A,South Pulaski,Far South Side
+53AL,South Pulaski Limited,
+54A,North Cicero/Skokie Blvd.,North-South Crosstown
+54B,South Cicero,North-South Crosstown
+55A,55th/Austin,North-South Crosstown
+55N,55th/Narragansett,
+56A,North Milwaukee,Northwest Side Feeder
+62H,Archer/Harlem,North-South Crosstown
+63W,West 63rd,Midway Feeder
+69BR,69th Bus Pre-Paid Area,Midway Feeder
+81W,West Lawrence,
+85A,North Central,Midway Feeder
+8A,South Halsted,Midway Feeder
+90N,North Harlem,
+95E,93rd-95th,Northwest Side Feeder
+95W,West 95th,Northwest Side Feeder
+J14,Jeffery Jump,Far South Side
+N201,Central/Sherman,
+R22,Cermak-Roosevelt Express,Far South Side
+R39,Pershing Shuttle,Far South Side
+R55,Dan Ryan OWL Shuttle,South Side Lake Shore Drive
+R63,Dan Ryan Local Shuttle,
+R69,69th-Garfield Express Shuttle,
+R79,79th-Garfield Express Shuttle,
+R87,87th-Garfield Express Shuttle,
+R95,95th-Garfield Express Shuttle,
+X20,Washington/Madison Express,
+X21,Cermak Express,
+X28,Stony Island Express,
+X3,King Drive Express,
+X4,Cottage Grove Express,
+X49,Western Express,
+X54,Cicero Express,
+X55,Garfield Express,
+X80,Irving Park Express,
+X9,Ashland Express,North-South Crosstown
+X98,Avon Express,
+X99,Chicago Manufacturing Campus,
